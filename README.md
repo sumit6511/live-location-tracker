@@ -45,6 +45,10 @@ Then open the app in your browser at:
 http://localhost:3000
 ```
 
+Or view the live deployed version here:
+
+https://live-location-tracker-5wqm.onrender.com
+
 ## Usage
 
 - Allow browser access to your location when prompted.
